@@ -1,8 +1,7 @@
 ## Welcome to Gowtham Krishna's Page
+<img src="https://user-images.githubusercontent.com/80963291/120062962-710eaa00-c082-11eb-99cf-6c4668047d80.jpg" alt="drawing" width="25%"/>
 
-![Gowtham Krishna](https://user-images.githubusercontent.com/80963291/120062962-710eaa00-c082-11eb-99cf-6c4668047d80.jpg)
-
-## Gowtham Krishna 😃
+## Gowtham Krishna 😃  
 ### Header 3
 
 - Bulleted
